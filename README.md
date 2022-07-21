@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="./assets/images/images-01.gif"/>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif"/>
 
 ### I am a Software Engineer;
 - 🔭 I'm working on ShangHai
@@ -44,7 +44,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
   </a>
 </p>
 
@@ -71,10 +71,12 @@
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div>
 
 
 <p align="center">
 <br>
 <a href="mailto:cybcoder@gmail.com?subject=Hello, Nihat"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
