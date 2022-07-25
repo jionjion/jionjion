@@ -36,17 +36,17 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" onclick="return false;">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" href="javascript:void(0);">
     <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,kotlin,python&theme=light" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" href="javascript:void(0);">
     <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,nginx,docker,linux&theme=light" />
   </a>
 </p>
