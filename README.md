@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/jionjion/count.svg" />
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/jionjion/count.svg" href="javascript:void(0);"/>
 </p>
 
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif"/>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif" onclick="return false;"/>
 
 ### I am a Software Engineer
 - 🔭 I'm working on ShangHai 😃
