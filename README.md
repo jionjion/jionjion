@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header)
 
+
 <p>
   <h1 align="center"><b>Hello. I'am Jion Jion 😃</b></h1>
 </p>
@@ -9,15 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jionjion">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/jionjion/count.svg" />
-  </a>
+  <img align="center" alt="jionjion" src="https://profile-counter.glitch.me/jionjion/count.svg" />
 </p>
 
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif"/>
+<a href="https://github.com/jionjion" alt="Home">
+  <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif"/>
+</a>
+
 
 ### I am a Software Engineer
 - 🔭 I'm working on ShangHai 😃
