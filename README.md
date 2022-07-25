@@ -36,19 +36,13 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev" onclick="return false;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev" href="javascript:void(0);">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,kotlin,python&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,kotlin,python&theme=light" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev" href="javascript:void(0);">
-    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,nginx,docker,linux&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,nginx,docker,linux&theme=light" />
 </p>
 
 
@@ -58,7 +52,7 @@
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jionjion&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jionjion&show_icons=true&theme=graywhite)
 
 
 
