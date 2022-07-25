@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/jionjion/count.svg" href="javascript:void(0);"/>
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/jionjion/count.svg" />
 </p>
 
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif" onclick="return false;"/>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jionjion/jionjion/master/assets/images/images-01.gif"/>
 
 ### I am a Software Engineer
 - 🔭 I'm working on ShangHai 😃
@@ -36,13 +36,19 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,kotlin,python&theme=light" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,kotlin,python&theme=light" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,nginx,docker,linux&theme=light" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,nginx,docker,linux&theme=light" />
+  </a>
 </p>
 
 
@@ -52,7 +58,7 @@
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jionjion&show_icons=true&theme=graywhite)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jionjion&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
