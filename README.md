@@ -9,11 +9,6 @@
   <h4 align="center"><b>long time no see & how are you </b></h4>
 </p>
 
-<p align="center">
-  <img align="center" alt="jionjion" src="https://profile-counter.glitch.me/jionjion/count.svg" />
-</p>
-
-
 <br>
 
 <a href="https://github.com/jionjion" alt="Home">
